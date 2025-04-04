@@ -1,7 +1,7 @@
 name: Update Profile Stats
 on:
   schedule:
-    - cron: '0 12 * * *'  # Daily at 12 PM UTC (5:30 PM IST)
+    - cron: '0 12 * * *'  # Daily at 12 PM UTC
   workflow_dispatch:
   push:
     branches: [ "main" ]
@@ -11,33 +11,36 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Update LeetCode Stats
-        uses: kartikey54/leetcode-readme-stats@main
+        uses: JS-Hao/leetcode-stats@main
         with:
-          leetcode_username: sanathkavatooru
-          stats_type: 2  # Includes contest badges and rating
-          commit_message: 'chore: Update LeetCode stats'
+          username: sanathkavatooru
+          filename: README.md
+          commit_message: 'docs: Update LeetCode stats'
+          css: |
+            .leetcode-stats {
+              font-family: "Noto Sans Mono", monospace;
+              background-color: #161b22;
+              padding: 1rem;
+            }
 
       - name: Update GitHub Stats
-        uses: anmol098/waka-readme-stats@master
+        uses: anuraghazra/github-readme-stats@latest
         with:
-          SHOW_LANGUAGE_STATS: "true"
-          SHOW_PROFILE_VIEWS: "false"
-          SHOW_LOC_TIME: "false"
-          SHOW_OS: "false"
-          LOCALE: "en"
-          COMMIT_MESSAGE: 'chore: Update GitHub stats'
+          username: sanath265
+          commit_message: 'docs: Update GitHub stats'
+          config_file: .github/stats.yml
 
       - name: Commit and Push Changes
+        if: always()
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Auto-update profile stats" || echo "No changes to commit"
+          git diff-index --quiet HEAD || git commit -m "Auto-update profile stats"
           git push
