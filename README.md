@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanath265)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanathkavatooru/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanathkavatooru@gmail.com)
+[![Email](https://img.shields.io/badge/Contact_Me-sanathkavatooru@gmail.com-blue?logo=gmail)](mailto:sanathkavatooru@gmail.com)
 
 ## 🧑💻 LeetCode Stats
 ![LeetCode Contest Graph](https://leetcard.jacoblin.cool/sanathkavatooru?theme=dark&font=Noto%20Sans%20Mono&ext=contest)
