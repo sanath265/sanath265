@@ -4,9 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanathkavatooru/)
 [![Email](https://img.shields.io/badge/Contact_Me-sanathkavatooru@gmail.com-blue?logo=gmail)](mailto:sanathkavatooru@gmail.com)
 
-## 🧑💻 LeetCode Stats
-![LeetCode Contest Graph](https://leetcard.jacoblin.cool/sanathkavatooru?theme=dark&font=Noto%20Sans%20Mono&ext=contest)
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -37,3 +34,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## LeetCode Stats
+![LeetCode Contest Graph](https://leetcard.jacoblin.cool/sanathkavatooru?theme=dark&font=Noto%20Sans%20Mono&ext=contest)
