@@ -56,11 +56,16 @@
     <a href="https://app.getmyuri.com/" style="background-color: #4CAF50; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; margin-right: 10px;">Live Demo</a>
   </p>
   <p><strong>Technologies:</strong>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="22"/>
-    <img src="https://img.shields.io/badge/Swift%20Charts-FF8C00?style=for-the-badge" alt="Swift Charts" height="22"/>
-    <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" height="22"/>
-    <img src="https://img.shields.io/badge/Restful%20API-555555?style=for-the-badge" alt="Restful API" height="22"/>
-  </p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="22"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="22"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="22"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" height="22"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="22"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="22"/>
+    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" height="22"/>
+    <img src="https://img.shields.io/badge/Ingress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Ingress" height="22"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="22"/>
+</p>
   <p>Built a website to allow users to shorten their URLs, with the ability to set manual aliases, passwords, and location-based blocking on links.</p>
 </div>
 
