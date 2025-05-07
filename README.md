@@ -1,8 +1,45 @@
-# Hi there 👋 I'm Sanath Kavatooru
+<p align="center">
+  <h1 style="margin-top:0; display:flex; align-items:center; justify-content:center; gap:0.5rem;">
+    <!-- Inline marquee GIF -->
+    <marquee 
+      behavior="alternate" 
+      scrollamount="8" 
+      style="display:inline-block; width:50px; height:50px; margin:0; padding:0;"
+    >
+      Hi
+      <img
+        src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+        alt="👋"
+        width="35"
+      />
+      I'm Sanath Kavatooru
+    </marquee>
+  </h1>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanath265)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanathkavatooru/)
-[![Email](https://img.shields.io/badge/Contact_Me-sanathkavatooru@gmail.com-blue?logo=gmail)](mailto:sanathkavatooru@gmail.com)
+<p align="center">
+  <a href="https://github.com/sanath265" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/sanathkavatooru/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=sanathkavatooru@gmail.com"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -13,45 +50,46 @@
   </a>
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<p align="center">
+  <strong>Languages</strong><br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="30"/>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="30"/>
 </p>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
+<p align="center">
+  <strong>Frameworks &amp; Libraries</strong><br>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" height="30"/>
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" height="30"/>
 </p>
 
-### Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<p align="center">
+  <strong>Tools &amp; DevOps</strong><br>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="30"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" height="30"/>
 </p>
 
 ## LeetCode Stats
 
-![LeetCode Contest Graph](https://leetcard.jacoblin.cool/sanathkavatooru?theme=dark&font=Noto%20Sans%20Mono&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sanathkavatooru?theme=dark&font=Noto%20Sans%20Mono&ext=contest" alt="LeetCode Stats"/>
+</p>
 
----
 
 ## Projects
 
 <!-- Smart URL Generator to GetMyURL -->
 <div style="background-color: #e8f5e9; padding: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
-  <h3>GetMyURL</h3>
+  <h3>GetMyURI</h3>
   <p>
     <a href="https://app.getmyuri.com/" style="background-color: #4CAF50; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; margin-right: 10px;">Live Demo</a>
   </p>
