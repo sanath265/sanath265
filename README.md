@@ -1,191 +1,259 @@
+<!-- =====================  HEADER  ===================== -->
 <p align="center">
-  <h1 style="margin-top:0; display:flex; align-items:center; justify-content:center; gap:0.5rem;">
-    <!-- Inline marquee GIF -->
-    <marquee 
-      behavior="alternate" 
-      scrollamount="8" 
-      style="display:inline-block; width:50px; height:50px; margin:0; padding:0;"
-    >
-      Hi
-      <img
-        src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-        alt="👋"
-        width="35"
-      />
-      I'm Sanath Kavatooru
-    </marquee>
-  </h1>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Sanath%20Kavatooru&fontAlign=50&fontAlignY=35&color=0:0b1220,100:1e293b&fontColor=ffffff&animation=twinkling"
+    alt="banner"
+  />
+</p>
+
+<h2 align="center">
+  Hi, I'm Sanath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/>
+</h2>
+
+<p align="center">
+  iOS • Full-Stack • GenAI • Cloud
 </p>
 
 <p align="center">
-  <a href="https://github.com/sanath265" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+  <a href="https://github.com/sanath265">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sanathkavatooru/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+  <a href="https://www.linkedin.com/in/sanathkavatooru/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a
-    href="https://mail.google.com/mail/?view=cm&fs=1&to=sanathkavatooru@gmail.com"
-    target="_blank"
-  >
-    <img
-      src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+  <a href="mailto:sanathkavatooru@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sanath265/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+---
+
+## ⚡ Quick snapshot
+
+- Building **GenAI apps** (RAG + document Q&A) with clean UX and production-ready APIs.
+- Shipping **iOS apps** in **Swift / SwiftUI / UIKit**.
+- Comfortable with **cloud + DevOps** (Docker, CI, deployment, storage).
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,react,nextjs,ts,js,python,cpp,c,nodejs,fastapi,nestjs,mongodb,postgres,aws,gcp,docker,kubernetes,git,githubactions" />
+</p>
+
+---
+
+<!-- =====================  PROJECTS  ===================== -->
+## 🚀 Projects (Selected)
+
+> Only the projects shown on my portfolio.
+
+<table>
+  <tr>
+    <!-- DocSage AI ChatBot -->
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/GENAI-1f6feb?style=flat-square" /></p>
+      <h3 align="center">DocSage AI ChatBot</h3>
+      <p align="center">Grounded PDF Q&A (RAG) with sessions, citations, and fast retrieval.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/docHelpChatBot">Code</a> •
+        <a href="https://doc-help-chat-bot.vercel.app">Live</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/docHelpChatBot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=docHelpChatBot&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+
+    <!-- AI Learning Assistant -->
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/GENAI-1f6feb?style=flat-square" /></p>
+      <h3 align="center">AI Learning Assistant</h3>
+      <p align="center">Learn any topic using your own data: flashcards + interview mode + RAG.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/LangGraph-7c3aed?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangChain-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/ChromaDB-1f2937?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/AILearningAssistant">Code</a> •
+        <a href="https://ai-learning-assistant-nine.vercel.app">Live</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/AILearningAssistant">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=AILearningAssistant&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- DocSage AI App -->
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/MOBILE-0ea5e9?style=flat-square" /></p>
+      <h3 align="center">DocSage AI App</h3>
+      <p align="center">Native iOS client with SwiftUI chat + document-gated sessions.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SwiftUI-0b1220?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/Combine-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/MVVM-334155?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/DocSageAIApp">Code</a> •
+        <a href="https://www.youtube.com/shorts/NWPnqCWrCIg">Demo</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/DocSageAIApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=DocSageAIApp&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+
+    <!-- AI Learning Assistant App -->
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/MOBILE-0ea5e9?style=flat-square" /></p>
+      <h3 align="center">AI Learning Assistant App</h3>
+      <p align="center">Mobile companion app to manage uploads + access smart study flows.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Swift-0b1220?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/CoreData-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/iOS-334155?style=flat-square&logo=apple&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/AILearningAssistantApp">Code</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/AILearningAssistantApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=AILearningAssistantApp&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Audio Transcriptor -->
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/MOBILE-0ea5e9?style=flat-square" /></p>
+      <h3 align="center">Audio Transcriptor</h3>
+      <p align="center">Long audio (2+ hrs) → chunking + resumable uploads + smooth transcript playback.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Swift-0b1220?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/AVAudioEngine-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAPI-1f2937?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/AudioTranscriptor">Code</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/AudioTranscriptor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=AudioTranscriptor&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+
+    <!-- Face Filter Application -->
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/MOBILE-0ea5e9?style=flat-square" /></p>
+      <h3 align="center">Face Filter Application</h3>
+      <p align="center">Real-time moustache AR overlay with face tracking + recording.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ARKit-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/SceneKit-334155?style=flat-square" />
+        <img src="https://img.shields.io/badge/iOS-0b1220?style=flat-square&logo=apple&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/voiceraFace">Code</a> •
+        <a href="https://www.youtube.com/watch?v=TcFRVqsIZs8&ab_channel=sanathkavatooru">Demo</a> •
+        <a href="https://www.youtube.com/shorts/Ml6FCBC5nug">Short</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/voiceraFace">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=voiceraFace&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- URL Shortener -->
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/FULLSTACK-f97316?style=flat-square" /></p>
+      <h3 align="center">URL Shortener</h3>
+      <p align="center">High-performance URL shortener with analytics + link management.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-16a34a?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1f6feb?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-dc2626?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/getmyuri">Code</a> •
+        <a href="https://app.getmyuri.com/">Live</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/getmyuri">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=getmyuri&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+
+    <!-- NSF Engineering -->
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/FRONTEND-22c55e?style=flat-square" /></p>
+      <h3 align="center">NSF Engineering (LearnChemE)</h3>
+      <p align="center">Interactive simulations to visualize complex engineering concepts.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=111827" />
+        <img src="https://img.shields.io/badge/HTML5_Canvas-111827?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/Simulations">Code</a> •
+        <a href="https://learncheme.github.io/">Live</a> •
+        <a href="https://learncheme.com/">Official</a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sanath265/Simulations">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=Simulations&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/sanath265">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanath265&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanath265&layout=compact&theme=dark"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanath265&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanath265&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
-## Tech Stack
+<details>
+  <summary><b>More stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=sanath265&theme=github-dark&hide_border=true" />
+  </p>
+</details>
 
-<p align="center">
-  <strong>Languages</strong><br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="30"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="30"/>
-</p>
+---
 
-<p align="center">
-  <strong>Frameworks &amp; Libraries</strong><br>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" height="30"/>
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" height="30"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30"/>
-  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" height="30"/>
-</p>
-
-<p align="center">
-  <strong>Tools &amp; DevOps</strong><br>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="30"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" height="30"/>
-</p>
-
-## LeetCode Stats
+## 🧩 LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sanathkavatooru?theme=dark&font=Noto%20Sans%20Mono&ext=contest" alt="LeetCode Stats"/>
 </p>
-
-
-## Projects
-
-<!-- Smart URL Generator to GetMyURL -->
-<div style="background-color: #e8f5e9; padding: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
-  <h3>GetMyURI</h3>
-  <p>
-    <a href="https://app.getmyuri.com/" style="background-color: #4CAF50; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; margin-right: 10px;">Live Demo</a>
-  </p>
-  <p><strong>Technologies:</strong>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="22"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="22"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="22"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" height="22"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="22"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="22"/>
-    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" height="22"/>
-    <img src="https://img.shields.io/badge/Ingress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Ingress" height="22"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="22"/>
-</p>
-  <p>Built a website to allow users to shorten their URLs, with the ability to set manual aliases, passwords, and location-based blocking on links.</p>
-</div>
-
-<hr style="border:0; height:1px; background-color:#ccc; margin:20px 0;">
-
-<!-- LearnChemE -->
-<div style="background-color: #e3f2fd; padding: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
-  <h3>LearnChemE</h3>
-  <p>
-    <a href="https://learncheme.github.io/" style="background-color: #1976D2; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold; margin-right: 10px;">GitHub Pages</a>
-    <a href="https://learncheme.com/" style="background-color: #1976D2; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">Official Site</a>
-  </p>
-  <p><strong>Technologies:</strong>
-    <img src="https://img.shields.io/badge/SVG.js-FF4081?style=for-the-badge" alt="SVG.js" height="22"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="22"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="22"/>
-  </p>
-  <p>Converted complex mathematical Wolfram models into interactive web simulations, making advanced chemical engineering concepts more accessible and engaging for students.</p>
-</div>
-
-<hr style="border:0; height:1px; background-color:#ccc; margin:20px 0;">
-
-<!-- Business Management Data Platform (PeakView) -->
-<div style="background-color: #fff3e0; padding: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
-  <h3>Business Management Data Platform (PeakView)</h3>
-  <p>
-    <a href="https://sanath265.github.io/PeakView-Frontend/" style="background-color: #F57C00; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">Live Demo</a>
-  </p>
-  <p><strong>Technologies:</strong>
-    <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" height="22"/>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" height="22"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="22"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="22"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="22"/>
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" height="22"/>
-  </p>
-  <p>Developed a full-stack web application for small-scale business vendors to manage inventory, track sales, and visualize financial data. Containerized backend services were deployed using Kubernetes on Google Cloud.</p>
-</div>
-
-<hr style="border:0; height:1px; background-color:#ccc; margin:20px 0;">
-
-<!-- Face Filter Application -->
-<div style="background-color: #fce4ec; padding: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
-  <h3>Face Filter Application</h3>
-  <p><em>Personal Project</em></p>
-  <p><strong>Technologies:</strong>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="22"/>
-    <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" height="22"/>
-    <img src="https://img.shields.io/badge/ARKit-333333?style=for-the-badge" alt="ARKit" height="22"/>
-  </p>
-  <p>Built an iOS app using ARKit to detect facial features and apply customizable moustache filters in real time. The app delivers an engaging live video and audio recording experience.</p>
-</div>
-
-<hr style="border:0; height:1px; background-color:#ccc; margin:20px 0;">
-
-<!-- AirAsia Move – Flights & Hotels App -->
-<div style="background-color: #e1f5fe; padding: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
-  <h3>AirAsia Move – Flights & Hotels App</h3>
-  <p>
-    <a href="https://apps.apple.com/us/app/airasia-move-flights-hotels/id565050268" style="background-color: #1976D2; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">View on App Store</a>
-  </p>
-  <p><strong>Technologies:</strong>
-    <img src="https://img.shields.io/badge/SwiftUI-0D96F7?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" height="22"/>
-    <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" height="22"/>
-    <img src="https://img.shields.io/badge/Combine-FA8E3F?style=for-the-badge" alt="Combine" height="22"/>
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" height="22"/>
-  </p>
-  <p>Enhanced the AirAsia Move mobile app by contributing to UI improvements, backend service migrations, and automation pipelines to streamline release cycles and improve user experience.</p>
-</div>
-
-<hr style="border:0; height:1px; background-color:#ccc; margin:20px 0;">
-
-<!-- HomeDepot – E-commerce Website -->
-<div style="background-color: #e8f0fe; padding: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
-  <h3>HomeDepot – E-commerce Website</h3>
-  <p>
-    <a href="https://sanath265.github.io/TheHomeDepot/" style="background-color: #4CAF50; color: white; padding: 8px 16px; border-radius: 5px; text-decoration: none; font-weight: bold;">Live Demo</a>
-  </p>
-  <p><strong>Technologies:</strong>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="22"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="22"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="22"/>
-  </p>
-  <p>Developed a static e-commerce platform that empowers local vendors by showcasing their products with a clean, responsive design aimed at enhancing community commerce.</p>
-</div>
