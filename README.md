@@ -47,16 +47,6 @@
 
 ---
 
-<!-- =====================  PROJECTS  ===================== -->
-## 🚀 Projects
-
-### 🤖 GenAI
-
-| | |
-|---|---|
-| **DocSage AI ChatBot**<br>Grounded PDF Q&A (RAG) with fast retrieval + sessions.<br><br>![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0ea5e9?style=flat) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)<br><br>🔗 **Live:** https://doc-help-chat-bot.vercel.app<br>💻 **Code:** https://github.com/sanath265/docHelpChatBot<br><br>![pin](https://github-readme-stats.vercel.app/api/pin/?username=sanath265&repo=docHelpChatBot&theme=github_dark&hide_border=true) | **AI Learning Assistant**<br>Learn any topic using your own data (flashcards + interview mode).<br><br>![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=ffdd54) ![LangGraph](https://img.shields.io/badge/LangGraph-7c3aed?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-0ea5e9?style=flat) ![ChromaDB](https://img.shields.io/badge/ChromaDB-1f2937?style=flat)<br><br>🔗 **Live:** https://ai-learning-assistant-nine.vercel.app<br>💻 **Code:** https://github.com/sanath265/AILearningAssistant<br><br>![pin](https://github-readme-s)
-
-
 ## 📊 GitHub Analytics
 
 <p align="center">
